@@ -6,7 +6,7 @@
   --secondaryColor: #ffdd67;
   --tertiaryColor: linear-gradient(to left, #444444, #ffdd67);
 }
-html {
+html { 
   box-sizing: border-box;
   font-family: monospace;
   background-color: var(--primaryColor);
